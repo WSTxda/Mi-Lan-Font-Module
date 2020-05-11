@@ -1,6 +1,8 @@
 # MIUI 12 Font Module
 
 This Magisk module provides MIUI 12 fonts for you Android AOSP interface
+
+![](https://i.imgur.com/cKSrKFB.png)
  
 ## Requirements 
 - Android 8.0+ 
@@ -19,9 +21,9 @@ This Magisk module provides MIUI 12 fonts for you Android AOSP interface
 
 Tested on:
 
-_- AOSP 10, 9, 8 
+- AOSP 10, 9, 8 
 - LOS ROM 
-- Device: Xiaomi Redmi 4A (Rolex) _ 
+- Device: Xiaomi Redmi 4A (Rolex)
 
 ## Changelog 
 ### v1.0 
