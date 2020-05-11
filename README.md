@@ -17,7 +17,7 @@ This Magisk module provides MIUI fonts for your device.
 - [Telegram](https://t.me/WSTxda) 
 
 ## Disclaimer 
-- This module has not been tested on all versions of Android , proceed at your own risk.
+- This module has not been tested on all versions of Android, proceed at your own risk.
 
 Tested on:
 
