@@ -5,7 +5,7 @@ This Magisk module provides MIUI fonts for your device.
 ![](https://i.imgur.com/cKSrKFB.png)
  
 ## Requirements 
-- Android 8.0+ 
+- Android 7.0+ 
 - Magisk 19+ 
 
 ## Installation 
