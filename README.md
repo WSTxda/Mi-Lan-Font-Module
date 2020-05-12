@@ -17,13 +17,15 @@ This Magisk module provides MIUI fonts for your device.
 - [Telegram](https://t.me/WSTxda) 
 
 ## Disclaimer 
-- This module has not been tested on all versions of Android, proceed at your own risk.
+This module has not been tested on all versions of Android, proceed at your own risk.
 
 Tested on:
 
-- AOSP 10, 9, 8 
-- LOS 17, 16
-- Device: Xiaomi Redmi 4A (Rolex)
+- AOSP 10, 9, 8, 7
+- LOS 17, 16, 15
+- MIUI 11, 10
+
+Device: Xiaomi Redmi 4A (Rolex)
 
 ## Changelog 
 ### Version: 1.0 
