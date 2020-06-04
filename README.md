@@ -23,9 +23,10 @@ Tested on:
 
 - AOSP 10, 9, 8, 7
 - LOS 17, 16, 15
-- MIUI 11, 10
+- MIUI 12, 11, 10
+- One UI 2.x
 
-Device: Xiaomi Redmi 4A (Rolex)
+Devices: Samsung Galaxy S9, Xiaomi Redmi 4A
 
 ## Changelog 
 ### Version: 1.0 
